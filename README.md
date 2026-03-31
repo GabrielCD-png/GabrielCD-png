@@ -11,7 +11,7 @@ Sou um entusiasta da organização do conhecimento e utilizo o método Zettelkas
 
 <div align="center">
 
-[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](www.linkedin.com/in/gabriel-cardoso-6b58982a5)
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/gabriel-cardoso-6b58982a5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:gabacardoso123@gmail.com)
 </div>
 
