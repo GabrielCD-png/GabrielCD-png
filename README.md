@@ -37,6 +37,7 @@ Sou um entusiasta da organização do conhecimento e utilizo o método Zettelkas
 * Utilizo o método **Zettelkasten no Obsidian** para organizar e consolidar meu conhecimento técnico de forma eficiente.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Linguagens:
 <div align="center">
 
